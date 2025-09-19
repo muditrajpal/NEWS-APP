@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+News App which allows user to select from 3 popular channels
 
-## Available Scripts
+<img width="1710" height="1107" alt="Screenshot 2025-09-04 at 9 56 05 AM" src="https://github.com/user-attachments/assets/6e96e38b-5b66-4b0e-a4c0-711fc5e3d606" />
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
