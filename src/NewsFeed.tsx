@@ -24,14 +24,14 @@ const categories = [
   'technology',
 ];
 
-const sourcesList = ['newsapi', 'guardian', 'nyt'];
+const sourcesList = ['guardian', 'nyt', 'newsapi'];
 
 function NewsFeed() {
   const [articles, setArticles] = useState<Article[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [search, setSearch] = useState<string>('');
   const [category, setCategory] = useState<string>('');
-  const [source, setSource] = useState<string>('newsapi');
+  const [source, setSource] = useState<string>('nyt');
   const [date, setDate] = useState<string>('');
   const [saved, setSaved] = useState<boolean>(false);
 

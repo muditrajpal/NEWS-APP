@@ -12,7 +12,10 @@ const ArticleList: React.FC<ArticleListProps> = ({ articles, loading }) => (
     {loading ? (
       <p>Loading articles...</p>
     ) : articles.length === 0 ? (
+      <>
       <p>No articles found.</p>
+      <i>For news API.org Requests from the browser are not allowed on the Developer plan, except from localhost</i>
+      </>
     ) : (
       articles.map((a, i) => <ArticleCard key={i} article={a} />)
     )}
