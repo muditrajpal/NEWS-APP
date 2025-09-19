@@ -2,7 +2,8 @@
 
 News App which allows user to select from 3 popular channels
 
-![Uploading Screenshot 2025-09-19 at 8.52.22 PM.png…]()
+<img width="1250" height="766" alt="Screenshot 2025-09-19 at 8 52 22 PM" src="https://github.com/user-attachments/assets/ce0c2bc9-0b8e-4e0c-ba85-8726e3130835" />
+
 
 
 
